@@ -218,17 +218,3 @@ streamlit run churn_app.py
 * Model Monitoring
 
 ---
-
-# 👨‍💻 Author
-
-**Pranav Das**
-
-B.Tech Computer Science Student
-
-Interested in Machine Learning, Data Science, and Artificial Intelligence.
-
----
-
-# ⭐ If you found this project useful
-
-Please consider giving this repository a ⭐ on GitHub.
