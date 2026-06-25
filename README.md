@@ -6,7 +6,7 @@ A Machine Learning project that predicts whether a telecom customer is likely to
 
 ## 🚀 Demo
 
-> *(Add your Streamlit deployment link here once deployed.)*
+> *https://customer-churn-prediction-system-ml-project.streamlit.app/*
 
 ---
 
